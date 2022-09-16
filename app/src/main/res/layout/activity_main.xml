@@ -41,7 +41,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="24dp"
         android:ems="10"
-        android:hint="Preço do alcool R$"
+        android:hint="Preço do alcll R$"
         android:inputType="numberDecimal"
         android:textSize="14sp"
         app:layout_constraintBottom_toTopOf="@+id/editTextNumberDecimal5"
